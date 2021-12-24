@@ -1,0 +1,21 @@
+.Counter {
+  text-align: center;
+  font-size: 5rem;
+  line-height: 4rem;
+}
+
+.Reset {
+  text-align: center;
+}
+
+
+#plusBtn {
+  background-color: rgb(104, 207, 238);
+}
+
+
+
+.ClickedTime {
+  text-align: center;
+  margin-bottom: 0;
+}
